@@ -51,18 +51,18 @@ And the other one to run Evans, the gRPC client
 evans -r repl 
 ```
 
-Inside Evans, you'll be able to see the list of calls available
+* Inside Evans, you'll be able to see the list of calls available
 <div align="center">
 <img src="/screenshots/calls.png" width="977" height="179"/>
 </div> 
 
-Calling 'ListCategories'
+* Calling 'ListCategories'
 <div align="center">
 <img src="/screenshots/listCategories.png" width="705" height="817"/>
 </div> 
 
-Calling 'CreateCategoryStreamBidirectional'
-That's the gRPC magic! <br />
+* Calling 'CreateCategoryStreamBidirectional' <br />
+<b>That's the gRPC magic! </b><br />
 On this call, we'll be sending and receiving data simultaneously.
 <div align="center">
 <img src="/screenshots/bidirecional.png" width="692" height="541"/>
