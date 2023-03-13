@@ -62,7 +62,8 @@ Calling 'ListCategories'
 </div> 
 
 Calling 'CreateCategoryStreamBidirectional'
-That's the gRPC magic. On this call, we'll be sending and receiving data simultaneously.
+That's the gRPC magic! <br />
+On this call, we'll be sending and receiving data simultaneously.
 <div align="center">
 <img src="/screenshots/bidirecional.png" width="692" height="541"/>
 </div> 
